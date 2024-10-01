@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name":"Lee Cooper",
+        "price":20,
+        "image":"img/image/f1.png"
+
+    },
+    {
+        "id": 2,
+        "name":"CAMPUS SUTRA",
+        "price":17,
+        "image":"img/image/f2.png"
+
+    },
+    {
+        "id": 3,
+        "name":"MADHURAM TEXTILES",
+        "price":18,
+        "image":"img/image/f3.png"
+
+    },
+    {
+        "id": 4,
+        "name":"SHOW OFF",
+        "price":13,
+        "image":"img/image/f4.png"
+
+    },
+    {
+        "id": 5,
+        "name":"DILLINGER",
+        "price":6,
+        "image":"img/image/f5.jpg"
+
+    },
+    {
+        "id": 6,
+        "name":"TULSATTVA",
+        "price":10,
+        "image":"img/image/f6.png"
+
+    },
+    {
+        "id": 7,
+        "name":"NETPLAY",
+        "price":12,
+        "image":"img/image/f7.jpg"
+
+    },
+    {
+        "id": 8,
+        "name":"KETCH",
+        "price":9,
+        "image":"img/image/f8.jpg"
+    },
+    {
+        "id": 9,
+        "name":"U.S POLO ASSN",
+        "price":35,
+        "image":"img/image/n8.png"
+    }
+
+]
